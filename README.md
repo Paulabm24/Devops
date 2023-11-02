@@ -10,5 +10,7 @@
 [4. Devops](modulo4.md)
 
 ## Referencia
-
+[asper](https://apser.es)
+[wikipedia](https://es.wikipedia.org)
+[azure](https://azure.microsoft.com)
 ## Licencia
